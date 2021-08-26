@@ -3,5 +3,5 @@ streamlit
 beautifulsoup4
 pdfplumber
 lxml
-torch
+torch==0.1.0
 transformers
