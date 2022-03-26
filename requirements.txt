@@ -3,5 +3,5 @@ streamlit
 beautifulsoup4
 pdfplumber
 lxml
-torchvision==0.1.8
+torchvision==0.1.8+cpu
 transformers
