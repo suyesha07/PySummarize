@@ -1,4 +1,4 @@
-nltk
+-f https://download.pytorch.org/whl/torch_stable.htmlnltk
 streamlit
 beautifulsoup4
 pdfplumber
