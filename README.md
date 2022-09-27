@@ -19,5 +19,5 @@ Basic textbox to allow for copy and paste entry of text for summarisation.
 
 In the demo, you can test out extractive summarisation.
 
-Live demo here: https://pytldr.herokuapp.com/
+Live demo here: https://suyesha07-pysummarize-app-kwx0pp.streamlitapp.com/
 
