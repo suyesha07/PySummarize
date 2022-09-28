@@ -16,7 +16,7 @@ import json
 from transformers import T5Tokenizer, T5ForConditionalGeneration, T5Config, pipeline
 
 st.sidebar.title("© Suyesha B")
-st.sidebar.header("PyTLDR -- Text Summarizer ")
+st.sidebar.header("PySummarize -- Text Summarizer ")
 tool = st.sidebar.selectbox("Tool", ["Textbox Summariser", "Wikipedia Summariser", "PDF Summariser"])
 st.sidebar.subheader("Abstractive Summarisation")
 st.sidebar.markdown("Abstractive Summarisation implements the BART model which uses Transformers to analyse the whole text and generate a uniquely written summary.")
